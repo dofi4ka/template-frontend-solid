@@ -1,0 +1,12 @@
+dist
+build
+.solid
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache
+.vinxi
+package-lock.json
+pnpm-lock.yaml
+yarn.lock 
